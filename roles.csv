@@ -1,0 +1,4 @@
+@everyone,read_messages;send_messages
+Member,read_messages;send_messages
+Moderator,read_messages;send_messages;kick_members;ban_members;manage_messages;manage_roles
+Admin,read_messages;send_messages;kick_members;ban_members;manage_messages;manage_roles;manage_channels;manage_guild
